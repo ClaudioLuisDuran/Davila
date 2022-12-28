@@ -1,0 +1,5 @@
+<%
+
+response.redirect "todas.asp"
+
+%>
